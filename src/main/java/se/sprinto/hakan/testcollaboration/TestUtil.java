@@ -8,6 +8,9 @@ public class TestUtil {
         System.out.println("YES");
         int a = 3;
         boolean b = a > 2;
+        if (a == 10) {
+            System.out.println("Equals 10");
+        }
         return 4L;
     }
 }
