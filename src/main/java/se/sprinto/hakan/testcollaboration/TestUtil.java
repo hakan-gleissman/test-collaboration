@@ -7,7 +7,7 @@ public class TestUtil {
         System.out.println("NO");
         System.out.println("YES");
         int a = 3;
-        boolean b = true;
+        boolean b = a > 2;
         return 4L;
     }
 }
