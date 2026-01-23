@@ -11,6 +11,7 @@ public class TestUtil {
         if (a > 10) {
             System.out.println("More than 10");
         }
+        String kalle = "Kalle";
         return 4L;
     }
 }
