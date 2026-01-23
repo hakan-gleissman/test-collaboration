@@ -6,6 +6,7 @@ public class TestUtil {
         System.out.println("Another system out");
         System.out.println("NO");
         System.out.println("YES");
+        int a = 3;
         return 4L;
     }
 }
