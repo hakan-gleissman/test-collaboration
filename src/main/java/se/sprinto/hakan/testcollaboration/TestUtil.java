@@ -3,6 +3,6 @@ package se.sprinto.hakan.testcollaboration;
 public class TestUtil {
 
     public Long getGreeting() {
-        return 3L;
+        return 4L;
     }
 }
